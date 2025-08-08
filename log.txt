@@ -1,0 +1,29 @@
+commit 42ec2e949ec7100772bd942b14f5b139d11c5f4b
+Author: NikitaArtemev <nartem2@wgu.edu>
+Date:   Thu Aug 7 08:43:55 2025 -0700
+
+    Added instructions & requirements.
+
+commit 9c84955de75cdd4f586c847f1e4b53efd14844b4
+Author: NikitaArtemev <nartem2@wgu.edu>
+Date:   Thu Aug 7 08:29:49 2025 -0700
+
+    Completed part 5 & added model application.
+
+commit 851133e01a341b26f121e05a0ab308b26b19fc80
+Author: NikitaArtemev <nartem2@wgu.edu>
+Date:   Wed Aug 6 16:14:08 2025 -0700
+
+    Completed parts 2,3,4 & 6.
+
+commit 232ffaf658db1ffd4425432f5ad1f70d77650774
+Author: NikitaArtemev <nartem2@wgu.edu>
+Date:   Wed Aug 6 15:38:18 2025 -0700
+
+    Completed part 1.
+
+commit 03f9509571398848e353eb31da0e61980f310d20
+Author: Emilio Miller <emilio.miller@siriusfederal.com>
+Date:   Thu May 9 18:31:21 2024 +0000
+
+    readme
